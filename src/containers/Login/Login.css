@@ -1,0 +1,13 @@
+.ForgotPass{
+    cursor: pointer;
+    position: relative;
+    text-decoration: underline;
+}
+
+.Login{
+    width: 640px;
+    margin: 10% auto;
+    border: 1px solid #ccc;
+    padding: 40px;
+    box-sizing: border-box;
+}
